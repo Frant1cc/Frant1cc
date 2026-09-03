@@ -21,11 +21,13 @@
 
 `Node.js` `Express` `Vue 3` `SQLite` `Qdrant` `MCP`
 
-### [The Micro Step Generator](https://github.com/Frant1cc/The-Micro-Step-Generator)
+### [Imperial Council AI](https://github.com/Frant1cc/imperial-council-ai)
 
-基于 BJ Fogg 行为模型的动态目标拆解助手，将抽象目标转换为更容易执行的微步骤。
+以“朝堂议政”为主题的 AI 决策工具，通过群臣分析、观点辩论与最终圣旨，帮助用户更有参与感地权衡现实选择。
 
-`Vue` `AI Application` `Hackathon`
+🏆 **TRAE SOLO Hackathon 广州场 · 城市最佳项目奖**
+
+`Vue 3` `Vite` `DeepSeek API` `AI Application`
 
 ### [Video Scroll Demo](https://github.com/Frant1cc/video-scroll-demo)
 
@@ -39,10 +41,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Cvue%2Cnodejs%2Cexpress&amp;theme=dark">
   <img src="https://skillicons.dev/icons?i=js%2Cts%2Cvue%2Cnodejs%2Cexpress&amp;theme=light" alt="JavaScript, TypeScript, Vue, Node.js and Express">
 </picture>
-
-## Highlights
-
-- **TRAE SOLO Hackathon 广州场 · 城市最佳项目奖**
 
 ---
 
