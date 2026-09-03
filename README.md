@@ -36,8 +36,8 @@
 ## Tech
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,vue,nodejs,express&theme=dark">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,nodejs,express&theme=light" alt="JavaScript, TypeScript, Vue, Node.js and Express">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Cvue%2Cnodejs%2Cexpress&amp;theme=dark">
+  <img src="https://skillicons.dev/icons?i=js%2Cts%2Cvue%2Cnodejs%2Cexpress&amp;theme=light" alt="JavaScript, TypeScript, Vue, Node.js and Express">
 </picture>
 
 ## Highlights
