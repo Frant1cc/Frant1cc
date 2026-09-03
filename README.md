@@ -1,4 +1,13 @@
-# Hi, I'm frant1c 👋
+<img src="./assets/header.svg" alt="frant1c — Building with Web and AI" width="100%">
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1200&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Building+at+the+intersection+of+Web+%26+AI;Exploring+reliable+AI+Agents;Turning+ideas+into+working+software">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1200&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Building+at+the+intersection+of+Web+%26+AI;Exploring+reliable+AI+Agents;Turning+ideas+into+working+software" alt="Building at the intersection of Web and AI">
+  </picture>
+</p>
+
+## About me
 
 一名拥抱 AI 的开发者，计算机科学与技术本科在读。
 
@@ -26,7 +35,10 @@
 
 ## Tech
 
-`Vue 3` · `TypeScript` · `JavaScript` · `Vite` · `Node.js` · `Express` · `SQLite` · `Qdrant` · `MCP`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,vue,nodejs,express&theme=dark">
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,nodejs,express&theme=light" alt="JavaScript, TypeScript, Vue, Node.js and Express">
+</picture>
 
 ## Highlights
 

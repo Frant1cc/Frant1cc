@@ -1,0 +1,39 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="280" rx="24" fill="#0D1117"/>
+
+  <g opacity="0.16" stroke="#8B949E">
+    <path d="M0 56H1200M0 112H1200M0 168H1200M0 224H1200"/>
+    <path d="M80 0V280M160 0V280M240 0V280M320 0V280M400 0V280M480 0V280M560 0V280M640 0V280M720 0V280M800 0V280M880 0V280M960 0V280M1040 0V280M1120 0V280"/>
+  </g>
+
+  <rect x="56" y="48" width="552" height="184" rx="16" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <circle cx="84" cy="76" r="6" fill="#FF7B72"/>
+  <circle cx="106" cy="76" r="6" fill="#D29922"/>
+  <circle cx="128" cy="76" r="6" fill="#3FB950"/>
+
+  <text x="84" y="138" fill="#F0F6FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="42" font-weight="700">frant1c</text>
+  <text x="84" y="178" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">Building with Web</text>
+  <text x="305" y="178" fill="#58A6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">× AI</text>
+  <text x="84" y="208" fill="#7EE787" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">ideas → systems → impact</text>
+
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M724 140H810M858 94L928 66M858 140H958M858 186L928 214" stroke="#30363D" stroke-width="4"/>
+    <path d="M810 140L838 104L866 140L838 176L810 140Z" fill="#161B22" stroke="#58A6FF" stroke-width="3"/>
+
+    <rect x="650" y="112" width="74" height="56" rx="12" fill="#161B22" stroke="#7EE787" stroke-width="3"/>
+    <path d="M672 132L660 140L672 148M702 132L714 140L702 148" stroke="#7EE787" stroke-width="3"/>
+
+    <circle cx="950" cy="58" r="28" fill="#161B22" stroke="#A371F7" stroke-width="3"/>
+    <path d="M940 58H960M950 48V68" stroke="#A371F7" stroke-width="3"/>
+
+    <rect x="958" y="112" width="104" height="56" rx="14" fill="#161B22" stroke="#58A6FF" stroke-width="3"/>
+    <circle cx="984" cy="140" r="6" fill="#58A6FF"/>
+    <circle cx="1010" cy="140" r="6" fill="#58A6FF"/>
+    <circle cx="1036" cy="140" r="6" fill="#58A6FF"/>
+
+    <circle cx="950" cy="222" r="28" fill="#161B22" stroke="#D29922" stroke-width="3"/>
+    <path d="M938 226L946 234L963 211" stroke="#D29922" stroke-width="4"/>
+  </g>
+
+  <text x="1092" y="252" fill="#484F58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">WEB / AGENT</text>
+</svg>
