@@ -21,6 +21,14 @@
 
 `Node.js` `Express` `Vue 3` `SQLite` `Qdrant` `MCP`
 
+### [DuoRec](https://github.com/Frant1cc/DuoRec)
+
+原生 macOS 双路录音工具，同时录制系统声音与麦克风。单个 MP4 保留混音和独立来源音轨，支持本机普通话转写、来源筛选与中断恢复，录音不上传。
+
+`Swift` `SwiftUI` `ScreenCaptureKit` `Speech` `macOS`
+
+[下载 macOS 应用](https://github.com/Frant1cc/DuoRec/releases/latest)
+
 ### [Imperial Council AI](https://github.com/Frant1cc/imperial-council-ai)
 
 以“朝堂议政”为主题的 AI 决策工具，通过群臣分析、观点辩论与最终圣旨，帮助用户更有参与感地权衡现实选择。
