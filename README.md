@@ -27,8 +27,6 @@
 
 `Swift` `SwiftUI` `ScreenCaptureKit` `Speech` `macOS`
 
-[下载 macOS 应用](https://github.com/Frant1cc/DuoRec/releases/latest)
-
 ### [Imperial Council AI](https://github.com/Frant1cc/imperial-council-ai)
 
 以“朝堂议政”为主题的 AI 决策工具，通过群臣分析、观点辩论与最终圣旨，帮助用户更有参与感地权衡现实选择。
